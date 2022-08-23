@@ -1,4 +1,6 @@
 # NUMBER_PLATE_DETECTOR
+
+This is a computer vision mini project which helps to identify the number plate of a car
 				
 For .py files:
 			open .py file and install all dependencies
